@@ -18,6 +18,19 @@ El archivo `.deb` instala Clopri en tu sistema, añade el icono al menú de apli
 4. Se abrirá el gestor de software (Ubuntu Software o Gdebi). Haz clic en **"Instalar"**.
 5. ¡Listo! Busca "Clopri" en tu menú de aplicaciones.
 
+### Instalar Gdebi 
+
+```bash
+# 1. Descargar la última versión de Gdebi en ubuntu
+
+# Actualizar
+sudo apt-get update
+
+#Instalar Gdebi
+sudo apt-get install gdebi
+```
+
+
 ### 💻 Método 2: Instalación por Terminal
 Si prefieres la línea de comandos, abre tu terminal y ejecuta:
 
