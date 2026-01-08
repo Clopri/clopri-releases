@@ -1,16 +1,17 @@
 # clopri-releases
 
+## Descargas
 
-### Descargas
+![Version](https://img.shields.io/github/v/release/Clopri/clopri-releases?label=Versión&color=blueviolet)
 
 
-![Windows](https://img.shields.io/github/downloads/Clopri/clopri-releases/latest/Clopri-Setup.exe?label=Windows&logo=windows&color=0078D6)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-999999?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
-![macOS](https://img.shields.io/github/downloads/Clopri/clopri-releases/latest/Clopri-universal.dmg?label=macOS&logo=apple&color=999999)
+![Total Descargas](https://img.shields.io/github/downloads/Clopri/clopri-releases/latest/total?style=flat&label=Descargas%20Totales&color=2ea44f)
 
-![Ubuntu](https://img.shields.io/github/downloads/Clopri/clopri-releases/latest/Clopri-Setup.deb?label=Ubuntu&logo=ubuntu&color=E95420)
 
-![Linux](https://img.shields.io/github/downloads/Clopri/clopri-releases/latest/Clopri-Setup.AppImage?label=Linux&logo=linux&color=FCC624)
 
 
 
