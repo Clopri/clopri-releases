@@ -9,7 +9,7 @@ Clopri es compatible con la mayoría de las distribuciones de Linux. Ofrecemos d
 
 El archivo `.deb` instala Clopri en tu sistema, añade el icono al menú de aplicaciones y se integra mejor con el escritorio.
 
-[![Descargar .deb](https://img.shields.io/badge/Descargar-Paquete_.deb-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/Clopri/clopri-releases/releases/download/latest/Clopri-Setup.deb)
+[![Descargar .deb](https://i.ibb.co/7Nn3Cjdv/btn-Ubuntu.png)](https://github.com/Clopri/clopri-releases/releases/download/latest/Clopri-Setup.deb)
 
 ### 🖱️ Método 1: Instalación Gráfica (Doble Clic)
 1. Descarga el archivo `.deb` usando el botón de arriba.
@@ -50,7 +50,8 @@ sudo apt-get install -f
 ## Opción B: AppImage (Universal / Portable)
 
 
-[![Descargar .AppImage](https://img.shields.io/badge/Descargar-Paquete_.AppImage-17cab4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Clopri/clopri-releases/releases/download/latest/Clopri-Setup.AppImage)
+[![Descargar .AppImage](https://i.ibb.co/kgwTjjsp/btn-Linux.png)](https://github.com/Clopri/clopri-releases/releases/download/latest/Clopri-Setup.AppImage)
+
 
 El formato AppImage funciona en casi todas las distribuciones (Fedora, Arch, CentOS, Ubuntu, etc.) y no requiere instalación. Es como un archivo portable.
 
