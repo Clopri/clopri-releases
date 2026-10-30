@@ -13,6 +13,6 @@
 
 
 
-
+**Nota de actualización:** La versión anterior tendrá el tag `latest`, por lo que debes quitárselo para dejarlo libre. Luego, agrega el tag `latest` a la nueva versión. De esta manera, la web y los enlaces se actualizarán automáticamente para permitir la descarga del último paquete (la versión más reciente).
 
 
